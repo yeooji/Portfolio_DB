@@ -1,77 +1,87 @@
 {
-    "1": [
+    "Techvalue": [
       {
         "id": 1,
-        "flight": "OZ212",
-        "destination": "SANFRANCISCO",
-        "gate": "23",
-        "time": "20:10"
+        "name": "온타운",
+        "link": "https://on.town/",
+        "date": "2021년 7월 - 2021년 9월",
+        "destination": "메타버스 가상사무실 및 기업 커뮤니티 제공 플랫폼",
+        "work": [
+            "UI 개발",
+            "회원가입 기능 개발",
+            "계정 정보 변경 기능 개발",
+            "기업 등록 및 검색 기능 개발",
+            "게시물 CRUD 기능 개발"
+        ],
+        "skill": ["jQuery", "CodeIngniter", "AWS"],
+        "detailVew": {
+           "projectTitle": "On Town",
+           "projectName": "온타운",
+           "projectDestination": "프로젝트 설명",
+           "a": "개발환경",
+           "b": "인력구성",
+           "c": "업무 기여도",
+           "d": "링크 바로가기"
+        }
       },
       {
         "id": 2,
-        "flight": "BK739",
-        "destination": "DOKYO",
-        "gate": "29",
-        "time": "15:00"
+        "name": "IR Canvas",
+        "link": "",
+        "date": "2021년 4월 - 2021년 7월",
+        "destination": "온라인 비대면 사업계획서 작성 및 코칭 플랫폼",
+        "work": [
+            "UI 개발"
+        ],
+        "skill": ["jQuery", "CodeIngniter", "AWS"],
+        "detailVew": {
+           "projectTitle": "IR Canvas",
+           "projectName": "IR Canvas",
+           "projectDestination": "프로젝트 설명",
+           "a": "개발환경",
+           "b": "인력구성",
+           "c": "업무 기여도",
+           "d": "링크 바로가기"
+        }
       },
       {
         "id": 3,
-        "flight": "FP428",
-        "destination": "LONDON",
-        "gate": "7",
-        "time": "13:40"
+        "name": "한국 스타트업 투자정보",
+        "link": "",
+        "date": "2020년 9월 - 2021년 3월",
+        "destination": "스타트업 대상 투자가치산출 및 기업 정보 제공 플랫폼",
+        "work": [
+            "UI 개발",
+            "뉴스 댓글 CRUD 기능 개발"
+        ],
+        "skill": ["jQuery", "CodeIngniter", "AWS"],
+        "detailVew": {
+           "projectTitle": "Hanstu",
+           "projectName": "한스투",
+           "projectDestination": "프로젝트 설명",
+           "a": "개발환경",
+           "b": "인력구성",
+           "c": "업무 기여도",
+           "d": "링크 바로가기"
+        }
       },
       {
         "id": 4,
-        "flight": "QM232",
-        "destination": "MILANO",
-        "gate": "9",
-        "time": "23:30"
-      },
-      {
-        "id": 5,
-        "flight": "CN508",
-        "destination": "BERLIN",
-        "gate": "39",
-        "time": "16:50"
-      },
-      {
-        "id": 6,
-        "flight": "AZ412",
-        "destination": "BANGKOK",
-        "gate": "24",
-        "time": "13:50"
-      },
-      {
-        "id": 7,
-        "flight": "JK488",
-        "destination": "SEOUL",
-        "gate": "77",
-        "time": "08:42"
-      },
-      {
-        "id": 8,
-        "flight": "YI290",
-        "destination": "MANILA",
-        "gate": "42",
-        "time": "16:25"
-      },
-      {
-        "id": 9,
-        "flight": "LB221",
-        "destination": "BARCELONA",
-        "gate": "22",
-        "time": "20:40"
-      },
-      {
-        "id": 10,
-        "flight": "US283",
-        "destination": "CHICAGO",
-        "gate": "11",
-        "time": "23:00"
+        "name": "사내 백오피스",
+        "link": "",
+        "date": "",
+        "destination": "메타버스 가상사무실 및 기업 커뮤니티 제공 플랫폼",
+        "work": [
+            "UI 개발",
+            "c3.js를 활용한 대시보드 통계 차트 개발",
+            "기업 관리 및 검색 기능 개발",
+            "팝업 공지 생성 및 관리 기능 개발"
+        ],
+        "skill": ["Bootstrap", "CodeIngniter", "AWS"],
+        "detailVew": {}
       }
     ],
-    "2": [
+    "Matenetworks": [
       {
         "id": 1,
         "flight": "OZ203",
@@ -141,78 +151,6 @@
         "destination": "OSAKA",
         "gate": "15",
         "time": "18:00"
-      }
-    ],
-    "3": [
-      {
-        "id": 1,
-        "flight": "GJ888",
-        "destination": "LYON",
-        "gate": "42",
-        "time": "10:45"
-      },
-      {
-        "id": 2,
-        "flight": "UQ219",
-        "destination": "HONGKONG",
-        "gate": "10",
-        "time": "20:15"
-      },
-      {
-        "id": 3,
-        "flight": "DN909",
-        "destination": "DAEGU",
-        "gate": "3",
-        "time": "12:30"
-      },
-      {
-        "id": 4,
-        "flight": "IB674",
-        "destination": "SYDNEY",
-        "gate": "61",
-        "time": "21:35"
-      },
-      {
-        "id": 5,
-        "flight": "FH333",
-        "destination": "BUENOSAIRES",
-        "gate": "31",
-        "time": "15:30"
-      },
-      {
-        "id": 6,
-        "flight": "NB545",
-        "destination": "STOCKHOLM",
-        "gate": "7",
-        "time": "04:20"
-      },
-      {
-        "id": 7,
-        "flight": "OP252",
-        "destination": "NEWCASTLE",
-        "gate": "42",
-        "time": "12:35"
-      },
-      {
-        "id": 8,
-        "flight": "BC956",
-        "destination": "DUBAI",
-        "gate": "20",
-        "time": "01:30"
-      },
-      {
-        "id": 9,
-        "flight": "TQ335",
-        "destination": "ABUDHABI",
-        "gate": "68",
-        "time": "15:30"
-      },
-      {
-        "id": 10,
-        "flight": "AD715",
-        "destination": "BERN",
-        "gate": "58",
-        "time": "14:00"
       }
     ]
   }
