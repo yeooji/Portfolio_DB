@@ -1,222 +1,88 @@
 {
-  "products": [
-    {
-      "id": 0,
-      "name": "Refined Fresh Chicken",
-      "price": "209.00",
-      "imageUrl": "http://placeimg.com/640/480/fashion",
-      "aaa": "http://placeimg.com/640/480/fashion",
-      "ss": "http://placeimg.com/640/480/fashion",
-      "dddd": "http://placeimg.com/640/480/fashion"
-    },
+  "project": [
     {
       "id": 1,
-      "name": "Intelligent Metal Mouse",
-      "price": "84.00",
-      "imageUrl": "http://placeimg.com/640/480/fashion",
-      "aaa": "http://placeimg.com/640/480/fashion",
-      "ss": "http://placeimg.com/640/480/fashion",
-      "dddd": "http://placeimg.com/640/480/fashion"
+      "type": "Practical Project",
+      "title": "Mate Networks",
+      "name": "메이트네트웍스 본사 웹사이트 리뉴얼",
+      "description": "프로젝트 설명",
+      "composition": "BE 1명, 디자이너&퍼블리셔 2명",
+      "participationRate": "디자인, 퍼블리싱(50%)",
+      "technicalInfo": "반응형 웹, Bootstrap, Gnuboard",
+      "link": "http://www.matenetworks.co.kr/",
+      "viewImg": ""
     },
     {
       "id": 2,
-      "name": "Handcrafted Frozen Pizza",
-      "price": "315.00",
-      "imageUrl": "http://placeimg.com/640/480/fashion",
-      "aaa": "http://placeimg.com/640/480/fashion",
-      "ss": "http://placeimg.com/640/480/fashion",
-      "dddd": "http://placeimg.com/640/480/fashion"
+      "type": "Practical Project",
+      "title": "Mate Mbox",
+      "name": "메이트엠박스",
+      "description": "계열사 웹사이트 제작. 업체에 의한 코드수정이 있을 수 있습니다.",
+      "composition": "BE 1명, 디자이너&퍼블리셔 2명",
+      "participationRate": "디자인, 퍼블리싱(50%)",
+      "technicalInfo": "반응형 웹, Bootstrap, Gnuboard",
+      "link": "https://www.matembox.co.kr/",
+      "viewImg": ""
     },
     {
       "id": 3,
-      "name": "Practical Metal Gloves",
-      "price": "702.00",
-      "imageUrl": "http://placeimg.com/640/480/fashion",
-      "aaa": "http://placeimg.com/640/480/fashion",
-      "ss": "http://placeimg.com/640/480/fashion",
-      "dddd": "http://placeimg.com/640/480/fashion"
+      "type": "Practical Project",
+      "title": "Jayhue",
+      "name": "제이휴",
+      "description": "파트너사 웹사이트 제작. 업체에 의한 코드수정이 있을 수 있습니다.",
+      "composition": "퍼블리셔 2명",
+      "participationRate": "기획, 디자인, 퍼블리싱(100%) / 그누보드(40%)",
+      "technicalInfo": "반응형 웹, jQuery, Gnuboard",
+      "link": "http://www.jayhue.co.kr/",
+      "viewImg": ""
     },
     {
       "id": 4,
-      "name": "Unbranded Rubber Chair",
-      "price": "458.00",
-      "imageUrl": "http://placeimg.com/640/480/fashion"
+      "type": "Practical Project",
+      "title": "Back Office",
+      "name": "사내 백오피스",
+      "description": "프로젝트 설명",
+      "composition": "BE 2명, FE 1명",
+      "participationRate": "참여율",
+      "technicalInfo": "기술정보",
+      "link": "",
+      "viewImg": ""
     },
     {
       "id": 5,
-      "name": "Small Rubber Salad",
-      "price": "455.00",
-      "imageUrl": "http://placeimg.com/640/480/fashion"
+      "type": "Practical Project",
+      "title": "Hanstu",
+      "name": "한국 스타트업 투자정보",
+      "description": "프로젝트 설명",
+      "composition": "BE 2명, FE 1명, 디자이너 1명",
+      "participationRate": "웹 프론트 개발(60%)",
+      "technicalInfo": "웹, 모바일웹, jQuery, CodeIngniter",
+      "link": "https://www.hanstu.co.kr/",
+      "viewImg": ""
     },
     {
       "id": 6,
-      "name": "Handmade Granite Mouse",
-      "price": "591.00",
-      "imageUrl": "http://placeimg.com/640/480/fashion"
+      "type": "Practical Project",
+      "title": "IR Canvas",
+      "name": "IR Canvas",
+      "description": "프로젝트 설명",
+      "composition": "BE 2명, FE 1명, 디자이너 1명",
+      "participationRate": "웹 프론트 개발(70%)",
+      "technicalInfo": "웹, jQuery, CodeIngniter",
+      "link": "https://ircanvas.hanstu.co.kr/",
+      "viewImg": ""
     },
     {
       "id": 7,
-      "name": "Awesome Concrete Shirt",
-      "price": "165.00",
-      "imageUrl": "http://placeimg.com/640/480/fashion"
-    },
-    {
-      "id": 8,
-      "name": "Sleek Steel Towels",
-      "price": "607.00",
-      "imageUrl": "http://placeimg.com/640/480/fashion"
-    },
-    {
-      "id": 9,
-      "name": "Handcrafted Plastic Computer",
-      "price": "289.00",
-      "imageUrl": "http://placeimg.com/640/480/fashion"
-    },
-    {
-      "id": 10,
-      "name": "Small Fresh Soap",
-      "price": "777.00",
-      "imageUrl": "http://placeimg.com/640/480/fashion"
-    },
-    {
-      "id": 11,
-      "name": "Practical Granite Chicken",
-      "price": "518.00",
-      "imageUrl": "http://placeimg.com/640/480/fashion"
-    },
-    {
-      "id": 12,
-      "name": "Awesome Metal Hat",
-      "price": "376.00",
-      "imageUrl": "http://placeimg.com/640/480/fashion"
-    },
-    {
-      "id": 13,
-      "name": "Refined Soft Towels",
-      "price": "723.00",
-      "imageUrl": "http://placeimg.com/640/480/fashion"
-    },
-    {
-      "id": 14,
-      "name": "Ergonomic Concrete Cheese",
-      "price": "339.00",
-      "imageUrl": "http://placeimg.com/640/480/fashion"
-    },
-    {
-      "id": 15,
-      "name": "Generic Soft Sausages",
-      "price": "669.00",
-      "imageUrl": "http://placeimg.com/640/480/fashion"
-    },
-    {
-      "id": 16,
-      "name": "Incredible Metal Ball",
-      "price": "697.00",
-      "imageUrl": "http://placeimg.com/640/480/fashion"
-    },
-    {
-      "id": 17,
-      "name": "Sleek Soft Shirt",
-      "price": "654.00",
-      "imageUrl": "http://placeimg.com/640/480/fashion"
-    },
-    {
-      "id": 18,
-      "name": "Rustic Plastic Fish",
-      "price": "133.00",
-      "imageUrl": "http://placeimg.com/640/480/fashion"
-    },
-    {
-      "id": 19,
-      "name": "Gorgeous Cotton Soap",
-      "price": "38.00",
-      "imageUrl": "http://placeimg.com/640/480/fashion"
-    },
-    {
-      "id": 20,
-      "name": "Incredible Concrete Chair",
-      "price": "569.00",
-      "imageUrl": "http://placeimg.com/640/480/fashion"
-    },
-    {
-      "id": 21,
-      "name": "Handcrafted Soft Pizza",
-      "price": "277.00",
-      "imageUrl": "http://placeimg.com/640/480/fashion"
-    },
-    {
-      "id": 22,
-      "name": "Intelligent Granite Chicken",
-      "price": "509.00",
-      "imageUrl": "http://placeimg.com/640/480/fashion"
-    },
-    {
-      "id": 23,
-      "name": "Handcrafted Rubber Ball",
-      "price": "487.00",
-      "imageUrl": "http://placeimg.com/640/480/fashion"
-    },
-    {
-      "id": 24,
-      "name": "Practical Frozen Pants",
-      "price": "607.00",
-      "imageUrl": "http://placeimg.com/640/480/fashion"
-    },
-    {
-      "id": 25,
-      "name": "Sleek Plastic Mouse",
-      "price": "909.00",
-      "imageUrl": "http://placeimg.com/640/480/fashion"
-    },
-    {
-      "id": 26,
-      "name": "Incredible Frozen Gloves",
-      "price": "172.00",
-      "imageUrl": "http://placeimg.com/640/480/fashion"
-    },
-    {
-      "id": 27,
-      "name": "Intelligent Concrete Salad",
-      "price": "501.00",
-      "imageUrl": "http://placeimg.com/640/480/fashion"
-    },
-    {
-      "id": 28,
-      "name": "Fantastic Metal Soap",
-      "price": "75.00",
-      "imageUrl": "http://placeimg.com/640/480/fashion"
-    },
-    {
-      "id": 29,
-      "name": "Intelligent Cotton Shirt",
-      "price": "130.00",
-      "imageUrl": "http://placeimg.com/640/480/fashion"
-    }
-  ],
-  "carts": [
-    {
-      "id": 1,
-      "name": "Intelligent Metal Mouse",
-      "price": "84.00",
-      "imageUrl": "http://placeimg.com/640/480/fashion"
-    },
-    {
-      "id": 7,
-      "name": "Awesome Concrete Shirt",
-      "price": "165.00",
-      "imageUrl": "http://placeimg.com/640/480/fashion"
-    },
-    {
-      "id": 12,
-      "name": "Awesome Metal Hat",
-      "price": "376.00",
-      "imageUrl": "http://placeimg.com/640/480/fashion"
-    },
-    {
-      "id": 6,
-      "name": "Handmade Granite Mouse",
-      "price": "591.00",
-      "imageUrl": "http://placeimg.com/640/480/fashion"
+      "type": "Practical Project",
+      "title": "On.town",
+      "name": "온타운",
+      "description": "프로젝트 설명",
+      "composition": "BE 3명, FE 1명, 디자이너 1명",
+      "participationRate": "웹 프론트 개발(90%)",
+      "technicalInfo": "웹, jQuery, CodeIngniter",
+      "link": "https://www.on.town/",
+      "viewImg": ""
     }
   ]
-} 
+}
